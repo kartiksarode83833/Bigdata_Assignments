@@ -1,0 +1,13 @@
+----------------------------------------------------------------
+Wed Jul 03 15:07:27 IST 2024:
+Booting Derby version The Apache Software Foundation - Apache Derby - 10.14.2.0 - (1828579): instance a816c00e-0190-77f4-c143-00000fb6aff0 
+on database directory /home/shraddha/bigdata/metastore_db with class loader sun.misc.Launcher$AppClassLoader@76ccd017 
+Loaded from file:/home/shraddha/.local/lib/python3.10/site-packages/pyspark/jars/derby-10.14.2.0.jar
+java.vendor=Private Build
+java.runtime.version=1.8.0_412-8u412-ga-1~22.04.1-b08
+user.dir=/home/shraddha/DBDA/BigDataTech/Classwork/Day8/Assignment5
+os.name=Linux
+os.arch=amd64
+os.version=6.5.0-41-generic
+derby.system.home=null
+Database Class Loader started - derby.database.classpath=''
